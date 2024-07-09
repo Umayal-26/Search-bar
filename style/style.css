@@ -1,0 +1,22 @@
+form input[type=text] {
+    padding: 10px;
+    font-size: xx-large;
+    border: 2px solid grey;
+    float: left;
+ }
+  
+  form  button {
+    float: left;
+    height: 59px;
+    width: 60px;
+    padding: 10px;
+    background: rgb(70, 225, 31);
+    border: 2px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: rgb(124, 124, 236);
+  }
+ 
